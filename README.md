@@ -13,4 +13,3 @@
 [![Kamruzaman's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zamanz&layout=compact)](https://github.com/zamanz)
 
 [![Kamruzaman's github stats](https://github-readme-stats.vercel.app/api?username=zamanz)](https://github.com/zamanz)
-
